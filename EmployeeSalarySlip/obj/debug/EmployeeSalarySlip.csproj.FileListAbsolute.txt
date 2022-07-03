@@ -1,0 +1,6 @@
+F:\[DesireCourse.Net] Udemy - React Redux Firebase CRUD Application with Authentication\EmployeeSalarySlip\EmployeeSalarySlip\bin\Debug\EmployeeSalarySlip.exe.config
+F:\[DesireCourse.Net] Udemy - React Redux Firebase CRUD Application with Authentication\EmployeeSalarySlip\EmployeeSalarySlip\obj\Debug\EmployeeSalarySlip.csprojResolveAssemblyReference.cache
+F:\[DesireCourse.Net] Udemy - React Redux Firebase CRUD Application with Authentication\EmployeeSalarySlip\EmployeeSalarySlip\bin\Debug\EmployeeSalarySlip.exe
+F:\[DesireCourse.Net] Udemy - React Redux Firebase CRUD Application with Authentication\EmployeeSalarySlip\EmployeeSalarySlip\bin\Debug\EmployeeSalarySlip.pdb
+F:\[DesireCourse.Net] Udemy - React Redux Firebase CRUD Application with Authentication\EmployeeSalarySlip\EmployeeSalarySlip\obj\Debug\EmployeeSalarySlip.exe
+F:\[DesireCourse.Net] Udemy - React Redux Firebase CRUD Application with Authentication\EmployeeSalarySlip\EmployeeSalarySlip\obj\Debug\EmployeeSalarySlip.pdb
